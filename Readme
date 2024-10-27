@@ -1,0 +1,16 @@
+About Dataset
+dataset contains detailed financial and demographic data for 20,000 individuals, focusing on income, expenses, and potential savings across various categories. The data aims to provide insights into personal financial management and spending patterns.
+
+Income & Demographics:
+Income: Monthly income in currency units.
+Age: Age of the individual.
+Dependents: Number of dependents supported by the individual.
+Occupation: Type of employment or job role.
+City_Tier: A categorical variable representing the living area tier (e.g., Tier 1, Tier 2).
+Monthly Expenses:
+Categories like Rent, Loan_Repayment, Insurance, Groceries, Transport, Eating_Out, Entertainment, Utilities, Healthcare, Education, and Miscellaneous record various monthly expenses.
+Financial Goals & Savings:
+Desired_Savings_Percentage and Desired_Savings: Targets for monthly savings.
+Disposable_Income: Income remaining after all expenses are accounted for.
+Potential Savings:
+Includes estimates of potential savings across different spending areas such as Groceries, Transport, Eating_Out, Entertainment, Utilities, Healthcare, Education, and Miscellaneous
